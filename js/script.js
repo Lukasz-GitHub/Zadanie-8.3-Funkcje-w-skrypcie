@@ -37,6 +37,7 @@ var stanwody = function (stopnieC) {
         return ('Woda jest w stanie wrzenia.')
     }
 }
+
 var newLine = function (text) {
     /*output.innerHTML += (text + '<br><br>'); 
         // Wyświetla treść w nowej lini nie nadpisując starego.
