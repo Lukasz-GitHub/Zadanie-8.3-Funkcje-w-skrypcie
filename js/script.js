@@ -45,7 +45,7 @@ var newLine = function (text) {
 }
 
 button.addEventListener('click', function () {
-    stopnieC = parseInt(window.prompt('Ile jest stopni Celcjusza?'));
+    stopnieC = parseInt(window.prompt('Ile jest stopni Celsjusza?'));
     calculateTempF();
 });
 
